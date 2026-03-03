@@ -18,16 +18,16 @@ Opin myös luomaan sivustolle tilan käyttämällä GitHub Pagesia.
 Из того, что я сделал, это:
 
 1. Файл index.html с небольшими блоками текстов. Эти блоки:
-   ``<link rel="stylesheet" href="styles/style.css" />
-    <title>Git harjoittelu | Kotisivu</title>
-  </head>
-  <body>
-    <h1>Git Harjoittelu</h1>
-    <h2>Github is github</h2>
-    <section>
-      <p>Lorm ipsum dolor bla bla bla</p>
-      <p>Lorm ipsum dolor bla bla bla</p>
-      <p>Lorm ipsum dolor bla bla bla</p>
-    </section>
-  </body>``
+   ``<link rel="stylesheet" href="styles/style.css" />``
+    ``<title>Git harjoittelu | Kotisivu</title>``
+  ``</head>``
+  ``<body>``
+    ``<h1>Git Harjoittelu</h1>``
+    ``<h2>Github is github</h2>``
+    ``<section>``
+      ``<p>Lorm ipsum dolor bla bla bla</p>``
+      ``<p>Lorm ipsum dolor bla bla bla</p>``
+      ``<p>Lorm ipsum dolor bla bla bla</p>``
+    ``</section>``
+  ``</body>``
   
