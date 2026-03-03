@@ -19,4 +19,4 @@ Olen tehnyt seuraavat asiat:
 
 1. Tiedosto index.html, jossa on pieniä tekstikappaleita, jotta voi oppia yhdistämään haarat oikein yhdeksi.
 2. style.css-tiedosto sisältää pienen koodin, joka muuttaa body-elementin taustavärin.
-3. Файл script.js имеет одну команду `console.log("hello world");`, но так как сам файл script.js не подключен, то и команда не выполняется.
+3. Tiedostossa script.js on yksi komento `console.log(”hello world”);`, mutta koska tiedosto script.js ei ole kytketty, komentoa ei suoriteta.
