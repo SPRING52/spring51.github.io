@@ -11,23 +11,13 @@ Tässä projektissa harjoittelin Git Hubin perusteita. Käytin pääasiassa seur
 
 Opin myös luomaan sivustolle tilan käyttämällä GitHub Pagesia. 
 
-## Что я сделал за данный репозиторий
+## Mitä olen tehnyt tässä arkistossa
 
-В этом репозитории я создал разные файлы для практики гит-комманд, так что многие файлы не имеют какой-либо информации. 
+Tässä arkistossa olen luonut erilaisia tiedostoja git-komentojen harjoittelua varten, joten monissa tiedostoissa ei ole mitään tietoa. 
 
-Из того, что я сделал, это:
+Olen tehnyt seuraavat asiat:
 
-1. Файл index.html с небольшими блоками текстов. Эти блоки:
-   ``<link rel="stylesheet" href="styles/style.css" />``
-    ``<title>Git harjoittelu | Kotisivu</title>``
-  ``</head>``
-  ``<body>``
-    ``<h1>Git Harjoittelu</h1>``
-    ``<h2>Github is github</h2>``
-    ``<section>``
-      ``<p>Lorm ipsum dolor bla bla bla</p>``
-      ``<p>Lorm ipsum dolor bla bla bla</p>``
-      ``<p>Lorm ipsum dolor bla bla bla</p>``
-    ``</section>``
-  ``</body>``
+1. Tiedosto index.html, jossa on pieniä tekstikappaleita, jotta voi oppia yhdistämään haarat oikein yhdeksi.
+2. style.css-tiedosto sisältää pienen koodin, joka muuttaa body-elementin taustavärin.
+   
   
