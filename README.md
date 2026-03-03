@@ -23,9 +23,9 @@ Olen tehnyt seuraavat asiat:
 
 ## Lisätietoja
 
-Здесь будет находится дополнительная информация, но в основном вода для того, чтобы заполнить пробелы в задании.)))
+Täältä löytyy lisätietoja, mutta pääasiassa vettä tehtävän aukkojen täyttämiseksi.)))
 
-### Список внутри списка
+### Luettelo luettelon sisällä
 
 - Kohta 1
 - Kohta 2
@@ -33,8 +33,8 @@ Olen tehnyt seuraavat asiat:
   - Kohta 2.2
 - Kohta 3
 
-### Картинка
+### Kuva
 
-Данная картинка является полностью невписывающейся в тему данного файла, однако я её всё равно добавил.
+Tämä kuva ei sovi lainkaan tämän tiedoston aiheeseen, mutta lisäsin sen silti.
 
 ![Campfire from pinterest](/images/campfire.jpg "Campfire")
