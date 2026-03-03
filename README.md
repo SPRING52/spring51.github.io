@@ -2,9 +2,11 @@
 
 ## This is my first github repository I guess...
 
-В данном проекте я практиковал основы гит хаба. В основном это были следующие команды:
+Tässä projektissa harjoittelin Git Hubin perusteita. Käytin pääasiassa seuraavia komentoja:
 
-- Создание репозитория
-- Создание коммитов
-- Изменения ветки
-- Слияние двух веток
+- Repositorion luominen
+- Commitien luominen
+- Haarojen muuttaminen
+- Kahden haaran yhdistäminen
+
+Opin myös luomaan sivustolle tilan käyttämällä GitHub Pagesia. 
