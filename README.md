@@ -44,6 +44,6 @@ Tämä kuva ei sovi lainkaan tämän tiedoston aiheeseen, mutta lisäsin sen sil
 Koodi style.css:sta 
 
     body {
-  background-color: red;
-  }
+    background-color: red;
+    }
 
