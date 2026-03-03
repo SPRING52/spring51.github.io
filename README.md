@@ -1,6 +1,6 @@
 # spring51.github.io
 
-This is my first github repository I guess...
+## This is my first github repository I guess...
 
 В данном проекте я практиковал основы гит хаба. В основном это были следующие команды:
 
