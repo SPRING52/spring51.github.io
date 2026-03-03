@@ -1,6 +1,10 @@
 # spring51.github.io
 
-This is my (almost) first repository I guess...
+This is my first github repository I guess...
 
-Jos sä luet sitä, niin se on teksti.
-dadada.
+В данном проекте я практиковал основы гит хаба. В основном это были следующие команды:
+
+- Создание репозитория
+- Создание коммитов
+- Изменения ветки
+- Слияние двух веток
